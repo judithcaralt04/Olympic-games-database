@@ -28,4 +28,3 @@ This was a three person team project. My part covered most of the INSERT-SELECT 
 - `scripts/G6_consultes.sql`: the 20 analytical queries, their validation checks, and the triggers
 - `data/`: the two source CSV files referenced above, `tickets.csv` and `seating_zones.csv`
 - `models/`: the conceptual and relational model diagrams
-- `docs/report.pdf`: the full project report, covering the model justification, data type choices, data import process and query explanations
